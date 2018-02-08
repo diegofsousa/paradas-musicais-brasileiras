@@ -1,28 +1,73 @@
 from selenium import webdriver
-import requests as req
 
-from utils import to_compose_search_string, duck_search_string, select_lyrics_link
+from utils import (to_compose_search_string,
+				   duck_search_string,
+				   select_lyrics_link,
+				   work_in_request_lyrics_url,
+				   select_lyric_in_html,
+				   select_number_views,
+				   select_gender,
+				   select_music_cipher_url)
 
-class Search(object):
+class SearchLyricsData(object):
 	"""docstring for Search"""
 	def __init__(self, artist, music):
-		super(Search, self).__init__()
-		self.artist = artist
-		self.music = music
-		self.search_string = to_compose_search_string(artist, music)
-		self.driver = webdriver.PhantomJS()
+		super(SearchLyricsData, self).__init__()
+		self.__artist = artist
+		self.__music = music
+		self.__search_string = to_compose_search_string(artist, music)
+		self.__driver = webdriver.PhantomJS()
+		self.__lyrics_url = self.__ask_duck_for_lyrics_url__()
+		self.__lyrics_html = self.__request_lyrics_url__()
 
-	def ask_duck_for_lyrics(self):
+	def __repr__(self):
+		return "<(SearchLyricsDataObject) artist: {}, music: {}, lyrics url: {}>".format(
+						self.__artist, self.__music, self.__lyrics_url)
+
+	def __ask_duck_for_lyrics_url__(self):
 		try:
-			self.driver.get(duck_search_string(self.search_string))
-			return select_lyrics_link(self.driver.page_source)
+			self.__driver.get(duck_search_string(self.__search_string))
+			return select_lyrics_link(self.__driver.page_source)
 		except Exception as e:
 			print(e)
 			return None
+
+	def __request_lyrics_url__(self):
+		return work_in_request_lyrics_url(self.__lyrics_url)
+
+	def total_return_for_lyrics(self):
+		return (self.__artist,
+				self.__music,
+				self.__lyrics_url,
+				self.__words_not_repeated_in_lyrics__(),
+				self.__number_of_views__(),
+				self.__gender__(),
+				self.__music_cipher_url__())
+
+	def __words_not_repeated_in_lyrics__(self):
+		if self.__lyrics_html:
+			return len(select_lyric_in_html(self.__lyrics_html))
+		return None
+
+	def __number_of_views__(self):
+		if self.__lyrics_html:
+			return select_number_views(self.__lyrics_html)
+		return None
+
+	def __gender__(self):
+		if self.__lyrics_html:
+			return select_gender(self.__lyrics_html)
+		return None
+
+	def __music_cipher_url__(self):
+		if self.__lyrics_html:
+			return select_music_cipher_url(self.__lyrics_html)
+		return None
 		
 
-anita = Search("anitta", "vai malandra")
-print(anita.ask_duck_for_lyrics())
+anita = SearchLyricsData("anitta", "vai malandra")
+print(anita)
+print(anita.total_return_for_lyrics())
 
 
 
