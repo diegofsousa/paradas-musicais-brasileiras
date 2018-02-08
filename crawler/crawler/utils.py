@@ -12,8 +12,11 @@ def duck_search_string(search_string):
 
 def select_lyrics_link(page_source):
 	try:
-		lyrics_link = scp(text=page_source).xpath('//a[@class="result__a"]/@href').extract_first()
-		return lyrics_link.replace("traducao.html","")
+		lyrics_link = scp(text=page_source).xpath('//a[@class="result__a"]/@href').extract()
+		for link in lyrics_link:
+			if "letras.mus.br" in link:
+				return link.replace("traducao.html","")
+		return None
 	except Exception as e:
 		return None
 

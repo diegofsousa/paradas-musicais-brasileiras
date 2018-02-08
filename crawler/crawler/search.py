@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-from utils import (to_compose_search_string,
+from crawler.utils import (to_compose_search_string,
 				   duck_search_string,
 				   select_lyrics_link,
 				   work_in_request_url,
@@ -89,9 +89,9 @@ class SearchCipherData(object):
 			return len(select_music_chords(self.__cipher_html))
 		return None
 
-anita_l = SearchLyricsData("tom jobim", "desafinado")
-if anita_l.total_return_for_lyrics()[6]:
-	anita_c = SearchCipherData(anita_l.total_return_for_lyrics()[6])
+# anita_l = SearchLyricsData("tom jobim", "desafinado")
+# if anita_l.total_return_for_lyrics()[6]:
+# 	anita_c = SearchCipherData(anita_l.total_return_for_lyrics()[6])
 
-print(anita_l)
-print(anita_c.number_of_chords())
+# print(anita_l)
+# print(anita_c.number_of_chords())
