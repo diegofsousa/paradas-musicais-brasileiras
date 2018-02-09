@@ -1,25 +1,24 @@
-from crawler.search import SearchLyricsData, SearchCipherData
+from crawler.crawler.search import SearchLyricsData, SearchCipherData
 
 import csv
 
 class CrowlerList(object):
 	"""docstring for CrowlerList"""
-	def __init__(self, matrix):
+	def __init__(self):
 		super(CrowlerList, self).__init__()
-		self._matrix = matrix
 
-	def matrix_to_csv(self, filename="music_crawler_file"):
+	def matrix_to_csv(self, matrix, filename="music_crawler_file"):
 		with open(filename+".csv", 'w') as csvfile:
 			filewriter = csv.writer(csvfile, delimiter=';',
 							quotechar='|', quoting=csv.QUOTE_MINIMAL)
 			filewriter.writerow(['position', 'artist', 'music', 'gender', 'number_of_unique_words', 'number_of_chords', 'views', 'lyrics_link', 'cipher_link'])
 			pos = 0
 
-			for music, artist in self._matrix:
+			for music, artist in matrix:
 				pos += 1
 				row = []
 
-				print("{} - {}".format(music, artist))
+				print("[{}/{}] Searching for '{} - {}'' ...".format(pos, len(matrix), music, artist))
 				sample = SearchLyricsData(artist, music)
 
 
@@ -27,15 +26,20 @@ class CrowlerList(object):
 				if sample.total_return_for_lyrics()[6]:
 					sample_cipher = SearchCipherData(sample.total_return_for_lyrics()[6])
 
+				sample = [b if b is not None else '' for b in sample.total_return_for_lyrics()]
+
 				row.append(pos)
-				row.append(sample.total_return_for_lyrics()[0])
-				row.append(sample.total_return_for_lyrics()[1])
-				row.append(sample.total_return_for_lyrics()[5])
-				row.append(sample.total_return_for_lyrics()[3])
-				row.append(sample_cipher.number_of_chords())
-				row.append(sample.total_return_for_lyrics()[4])
-				row.append(sample.total_return_for_lyrics()[2])
-				row.append(sample.total_return_for_lyrics()[6])
+				row.append(sample[0])
+				row.append(sample[1])
+				row.append(sample[5])
+				row.append(sample[3])
+				try:
+					row.append(sample_cipher.number_of_chords())
+				except Exception as e:
+					row.append('')
+				row.append(sample[4])
+				row.append(sample[2])
+				row.append(sample[6])
 
 				filewriter.writerow(row)
 				print("\n")
@@ -43,14 +47,4 @@ class CrowlerList(object):
 	def csv_to_csv(self, filename):
 		with open(filename, newline='') as csvfile:
 			music = csv.reader(csvfile, delimiter=';', quotechar='|')
-			for row in music:
-				print(row)
-
-li = [
-	['raça negra', 'cheia de manias'],
-	['anitta', 'vai malandra'],
-		
-]
-
-meu_crow = CrowlerList(li)
-meu_crow.csv_to_csv("musica_tophits_00.htm.csv")
+			self.matrix_to_csv(list(music), filename+"_output")

@@ -14,7 +14,7 @@ def select_lyrics_link(page_source):
 	try:
 		lyrics_link = scp(text=page_source).xpath('//a[@class="result__a"]/@href').extract()
 		for link in lyrics_link:
-			if "letras.mus.br" in link:
+			if "letras.mus.br/" in link:
 				return link.replace("traducao.html","")
 		return None
 	except Exception as e:
@@ -45,21 +45,29 @@ def select_lyric_in_html(page_source):
 	return list(set(' '.join(lyric).lower().split(' ')))
 
 def select_number_views(page_source):
-	number_views = scp(text=page_source).xpath('//div[@class="cnt-info_exib"]/b/text()').extract_first()
-	return int(number_views.replace('.',''))
+	try:
+		number_views = scp(text=page_source).xpath('//div[@class="cnt-info_exib"]/b/text()').extract_first()
+		return int(number_views.replace('.',''))
+	except Exception as e:
+		return None
+	
 
 def select_gender(page_source):
 	return scp(text=page_source).xpath('//div[@id="breadcrumb"]/span/a/span/text()').extract()[1]
 
 def select_music_cipher_url(page_source):
-	left_links = scp(text=page_source).xpath('//div[@class="letra-menu"]/a/@href').extract()
-	if left_links[0] == "#":
-		return left_links[1]
-	return left_links[2]
+	try:
+		left_links = scp(text=page_source).xpath('//div[@class="letra-menu"]/a/@href').extract()
+		if left_links[0] == "#":
+			return left_links[1]
+		return left_links[2]
+	except Exception as e:
+		return None
+	
 
 def select_music_chords(page_source):
-	page_chords = scp(text=page_source).xpath('//div[@id="js-view-script"]/script/text()').extract()[1]
 	try:
+		page_chords = scp(text=page_source).xpath('//div[@id="js-view-script"]/script/text()').extract()[1]
 		home = page_chords.find('chords: ') + 8
 		end = page_chords.find('}]);') - 14
 		chords = page_chords[home:end]

@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-from crawler.utils import (to_compose_search_string,
+from crawler.crawler.utils import (to_compose_search_string,
 				   duck_search_string,
 				   select_lyrics_link,
 				   work_in_request_url,
@@ -20,6 +20,7 @@ class SearchLyricsData(object):
 		self.__driver = webdriver.Firefox()
 		self.__lyrics_url = self.__ask_duck_for_lyrics_url__()
 		self.__lyrics_html = self.__request_lyrics_url__()
+		self.__number_views = self.__number_of_views__()
 		self.__driver.quit()
 
 	def __repr__(self):
@@ -39,7 +40,7 @@ class SearchLyricsData(object):
 
 	def __request_lyrics_url__(self):
 		if self.__lyrics_url:
-			print("Request lyrics url...", end='', flush=True)
+			print("Request lyrics url to {} ... ".format(self.__lyrics_url), end='', flush=True)
 			return work_in_request_url(self.__lyrics_url)
 		return None
 
@@ -59,7 +60,10 @@ class SearchLyricsData(object):
 
 	def __number_of_views__(self):
 		if self.__lyrics_html:
-			return select_number_views(self.__lyrics_html)
+			if select_number_views(self.__lyrics_html) == None:
+				self.__lyrics_url = None
+			else:
+				return select_number_views(self.__lyrics_html)
 		return None
 
 	def __gender__(self):
@@ -81,17 +85,10 @@ class SearchCipherData(object):
 		self.__cipher_html = self.__request_cipher_url__()
 
 	def __request_cipher_url__(self):
-		print("Request cipher url...", end='', flush=True)
+		print("Request cipher url to {} ...".format(self.__cipher_url), end='', flush=True)
 		return work_in_request_url(self.__cipher_url)
 
 	def number_of_chords(self):
 		if self.__cipher_html:
 			return len(select_music_chords(self.__cipher_html))
 		return None
-
-# anita_l = SearchLyricsData("tom jobim", "desafinado")
-# if anita_l.total_return_for_lyrics()[6]:
-# 	anita_c = SearchCipherData(anita_l.total_return_for_lyrics()[6])
-
-# print(anita_l)
-# print(anita_c.number_of_chords())

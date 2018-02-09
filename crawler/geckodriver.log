@@ -127,3 +127,1745 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifie
 [Child 9039, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 8984, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155664414	geckodriver	INFO	Listening on 127.0.0.1:59507
+1518155665525	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0W92CHcau4vo
+1518155665526	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155665548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40671
+1518155672693	Marionette	INFO	Enabled via --marionette
+1518155680513	Marionette	INFO	Listening on port 40671
+[Child 8782, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8782, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155690500	geckodriver	INFO	Listening on 127.0.0.1:43663
+1518155691625	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NLMsbI1M9GgA
+1518155691626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155691627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40841
+1518155692492	Marionette	INFO	Enabled via --marionette
+1518155695717	Marionette	INFO	Listening on port 40841
+[Child 8981, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8981, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155705479	geckodriver	INFO	Listening on 127.0.0.1:44865
+1518155706595	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.q4lvoA2VH8qg
+1518155706596	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155706598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40159
+1518155707434	Marionette	INFO	Enabled via --marionette
+1518155710713	Marionette	INFO	Listening on port 40159
+[Child 9138, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9138, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155721310	geckodriver	INFO	Listening on 127.0.0.1:58867
+1518155722426	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cUR7wykcdNWP
+1518155722427	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155722429	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41827
+1518155723334	Marionette	INFO	Enabled via --marionette
+1518155727265	Marionette	INFO	Listening on port 41827
+[Child 9298, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9298, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155735122	geckodriver	INFO	Listening on 127.0.0.1:33327
+1518155736241	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0Rw1YujYHgrY
+1518155736242	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155736244	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38817
+1518155737184	Marionette	INFO	Enabled via --marionette
+1518155741030	Marionette	INFO	Listening on port 38817
+[Child 9458, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9458, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155900095	geckodriver	INFO	Listening on 127.0.0.1:36775
+1518155901212	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gVb0Ix6mVi3j
+1518155901213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155901215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36275
+1518155902303	Marionette	INFO	Enabled via --marionette
+1518155906311	Marionette	INFO	Listening on port 36275
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9664, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9702, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9664, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155913997	geckodriver	INFO	Listening on 127.0.0.1:39341
+1518155915115	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4DLExKt7O4Sx
+1518155915116	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155915118	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46731
+1518155915982	Marionette	INFO	Enabled via --marionette
+1518155919114	Marionette	INFO	Listening on port 46731
+[Child 9823, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9823, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155928132	geckodriver	INFO	Listening on 127.0.0.1:39741
+1518155929250	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cLhA8LE6F0aD
+1518155929252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155929253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35381
+1518155930184	Marionette	INFO	Enabled via --marionette
+1518155933296	Marionette	INFO	Listening on port 35381
+[Child 9980, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9980, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155945217	geckodriver	INFO	Listening on 127.0.0.1:53077
+1518155946335	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SEWb1cH30wH9
+1518155946336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155946338	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38043
+1518155947188	Marionette	INFO	Enabled via --marionette
+1518155950398	Marionette	INFO	Listening on port 38043
+[Child 10138, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10138, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518155961123	geckodriver	INFO	Listening on 127.0.0.1:33409
+1518155962240	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BJJgkQPg2tZ4
+1518155962241	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518155962243	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42055
+1518155963114	Marionette	INFO	Enabled via --marionette
+1518155966530	Marionette	INFO	Listening on port 42055
+[Child 10299, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10299, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156092776	geckodriver	INFO	Listening on 127.0.0.1:43155
+1518156093899	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zH9v6nX68eeE
+1518156093900	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156093902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44827
+1518156094741	Marionette	INFO	Enabled via --marionette
+1518156097922	Marionette	INFO	Listening on port 44827
+[Child 10523, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10523, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156109669	geckodriver	INFO	Listening on 127.0.0.1:38419
+1518156110784	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GE139Bx3bEc0
+1518156110785	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156110787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40613
+1518156111656	Marionette	INFO	Enabled via --marionette
+1518156114765	Marionette	INFO	Listening on port 40613
+[Child 10681, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10681, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156122217	geckodriver	INFO	Listening on 127.0.0.1:59397
+1518156123333	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SKcEIdamns1i
+1518156123334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156123336	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40813
+1518156124195	Marionette	INFO	Enabled via --marionette
+1518156127346	Marionette	INFO	Listening on port 40813
+[Child 10839, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10839, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156134606	geckodriver	INFO	Listening on 127.0.0.1:46073
+1518156135720	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6EpyItstDVUZ
+1518156135721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156135723	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35001
+1518156136599	Marionette	INFO	Enabled via --marionette
+1518156139996	Marionette	INFO	Listening on port 35001
+[Child 10998, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10998, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156150978	geckodriver	INFO	Listening on 127.0.0.1:47323
+1518156152097	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ybsm35UHu8Nr
+1518156152098	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156152100	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45611
+1518156152962	Marionette	INFO	Enabled via --marionette
+1518156156090	Marionette	INFO	Listening on port 45611
+[Child 11158, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11158, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156484434	geckodriver	INFO	Listening on 127.0.0.1:41549
+1518156484600	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Uxl1oOARqBxb
+1518156484602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156484604	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42749
+1518156485811	Marionette	INFO	Enabled via --marionette
+1518156490400	Marionette	INFO	Listening on port 42749
+[Child 11641, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11641, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156500355	geckodriver	INFO	Listening on 127.0.0.1:58755
+1518156501471	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u8MG9yVGdYBn
+1518156501473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156501474	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37671
+1518156502743	Marionette	INFO	Enabled via --marionette
+1518156506147	Marionette	INFO	Listening on port 37671
+[Child 11801, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11801, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156513829	geckodriver	INFO	Listening on 127.0.0.1:35659
+1518156514943	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.L1iQpfggpLTY
+1518156514944	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156514946	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34993
+1518156515920	Marionette	INFO	Enabled via --marionette
+1518156519231	Marionette	INFO	Listening on port 34993
+[Child 11958, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11958, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156529935	geckodriver	INFO	Listening on 127.0.0.1:39249
+1518156531049	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9ZoYW3tV0NfU
+1518156531050	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156531052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44393
+1518156532070	Marionette	INFO	Enabled via --marionette
+1518156535531	Marionette	INFO	Listening on port 44393
+[Child 12120, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12120, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12120, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156544924	geckodriver	INFO	Listening on 127.0.0.1:39469
+1518156546038	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.661QGC2OGUy6
+1518156546039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156546041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40477
+1518156546880	Marionette	INFO	Enabled via --marionette
+1518156550521	Marionette	INFO	Listening on port 40477
+[Child 12281, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12281, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12281, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156687168	geckodriver	INFO	Listening on 127.0.0.1:44045
+1518156688284	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3UiHJ68BcHfQ
+1518156688285	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156688287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40173
+1518156689162	Marionette	INFO	Enabled via --marionette
+1518156692408	Marionette	INFO	Listening on port 40173
+[Child 12520, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12520, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156700976	geckodriver	INFO	Listening on 127.0.0.1:47583
+1518156702092	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jEjEeWVzkH1G
+1518156702093	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156702094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43417
+1518156702970	Marionette	INFO	Enabled via --marionette
+1518156706406	Marionette	INFO	Listening on port 43417
+[Child 12679, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12679, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156714843	geckodriver	INFO	Listening on 127.0.0.1:58171
+1518156715959	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.i9aqCelobPLK
+1518156715960	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156715961	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42397
+1518156716816	Marionette	INFO	Enabled via --marionette
+1518156721233	Marionette	INFO	Listening on port 42397
+[Child 12838, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12838, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156728457	geckodriver	INFO	Listening on 127.0.0.1:49845
+1518156729577	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zYkewcrWyx3v
+1518156729578	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156729580	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42953
+1518156730456	Marionette	INFO	Enabled via --marionette
+1518156733691	Marionette	INFO	Listening on port 42953
+[Child 12995, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12995, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156745301	geckodriver	INFO	Listening on 127.0.0.1:33087
+1518156746415	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V3bwJf195S3x
+1518156746416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156746418	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32959
+1518156747315	Marionette	INFO	Enabled via --marionette
+1518156751194	Marionette	INFO	Listening on port 32959
+[Child 13156, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13156, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156820111	geckodriver	INFO	Listening on 127.0.0.1:54645
+1518156821226	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C4EtlVq6eK2c
+1518156821227	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156821229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34895
+1518156822154	Marionette	INFO	Enabled via --marionette
+1518156825492	Marionette	INFO	Listening on port 34895
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 556: TypeError: this.tablesData[table] is undefined
+[Child 13346, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13346, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156832714	geckodriver	INFO	Listening on 127.0.0.1:57301
+1518156833832	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MbkHIEMZdoXz
+1518156833833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156833835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34849
+1518156834697	Marionette	INFO	Enabled via --marionette
+1518156837808	Marionette	INFO	Listening on port 34849
+[Child 13503, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13503, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156847969	geckodriver	INFO	Listening on 127.0.0.1:52867
+1518156849087	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dhcsvQysuD0b
+1518156849088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156849090	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35271
+1518156850200	Marionette	INFO	Enabled via --marionette
+1518156853859	Marionette	INFO	Listening on port 35271
+[Child 13666, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13666, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156862184	geckodriver	INFO	Listening on 127.0.0.1:46307
+1518156863300	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oG8zsu4fzaKN
+1518156863301	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156863302	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40673
+1518156864260	Marionette	INFO	Enabled via --marionette
+1518156867680	Marionette	INFO	Listening on port 40673
+[Child 13823, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13823, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518156876103	geckodriver	INFO	Listening on 127.0.0.1:59703
+1518156877218	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XO0VKACChZlQ
+1518156877220	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518156877221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42187
+1518156878115	Marionette	INFO	Enabled via --marionette
+1518156881166	Marionette	INFO	Listening on port 42187
+[Child 13979, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13979, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157294807	geckodriver	INFO	Listening on 127.0.0.1:39545
+1518157295972	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MsUeAWBSVYlg
+1518157295973	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157295975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40893
+1518157297746	Marionette	INFO	Enabled via --marionette
+1518157301903	Marionette	INFO	Listening on port 40893
+[Child 14553, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14553, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157312088	geckodriver	INFO	Listening on 127.0.0.1:48929
+1518157313206	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rHpDLKDc9xBH
+1518157313207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157313208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39865
+1518157314228	Marionette	INFO	Enabled via --marionette
+1518157317454	Marionette	INFO	Listening on port 39865
+[Child 14716, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14716, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157329429	geckodriver	INFO	Listening on 127.0.0.1:50605
+1518157330544	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5z72Vy7oFu97
+1518157330545	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157330547	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33417
+1518157331436	Marionette	INFO	Enabled via --marionette
+1518157334807	Marionette	INFO	Listening on port 33417
+[Child 14878, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14878, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157342644	geckodriver	INFO	Listening on 127.0.0.1:49231
+1518157343762	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UJKU3GuHWK7P
+1518157343763	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157343765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40291
+1518157344618	Marionette	INFO	Enabled via --marionette
+1518157347939	Marionette	INFO	Listening on port 40291
+[Child 15037, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15037, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157357035	geckodriver	INFO	Listening on 127.0.0.1:37527
+1518157358152	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mKMiGCDLLIMD
+1518157358154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157358155	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38983
+1518157359104	Marionette	INFO	Enabled via --marionette
+1518157362855	Marionette	INFO	Listening on port 38983
+[Child 15202, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15202, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157375283	geckodriver	INFO	Listening on 127.0.0.1:45807
+1518157376397	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.A8D4nVt3KFWb
+1518157376398	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157376400	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39757
+1518157377247	Marionette	INFO	Enabled via --marionette
+1518157381129	Marionette	INFO	Listening on port 39757
+[Child 15363, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15363, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15363, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157390066	geckodriver	INFO	Listening on 127.0.0.1:57583
+1518157391182	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7bEk2NJZkfgq
+1518157391183	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157391185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34633
+1518157392119	Marionette	INFO	Enabled via --marionette
+1518157396909	Marionette	INFO	Listening on port 34633
+[Child 15526, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15526, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157406785	geckodriver	INFO	Listening on 127.0.0.1:34243
+1518157407903	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tgXqZ1l4mqh5
+1518157407904	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157407906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37139
+1518157408812	Marionette	INFO	Enabled via --marionette
+1518157412785	Marionette	INFO	Listening on port 37139
+[Child 15687, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15687, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157422500	geckodriver	INFO	Listening on 127.0.0.1:43877
+1518157423621	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tcqEHQDInLhi
+1518157423622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157423624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38545
+1518157424455	Marionette	INFO	Enabled via --marionette
+1518157428453	Marionette	INFO	Listening on port 38545
+[Child 15848, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15848, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157441429	geckodriver	INFO	Listening on 127.0.0.1:57025
+1518157442545	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YctiW3U1AS3l
+1518157442546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157442770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33899
+1518157444311	Marionette	INFO	Enabled via --marionette
+1518157448678	Marionette	INFO	Listening on port 33899
+[Child 16012, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16012, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157460980	geckodriver	INFO	Listening on 127.0.0.1:48955
+1518157462121	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HlgiCuPNE5oX
+1518157462123	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157462125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43785
+1518157463032	Marionette	INFO	Enabled via --marionette
+1518157466241	Marionette	INFO	Listening on port 43785
+[Child 16175, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16175, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157478049	geckodriver	INFO	Listening on 127.0.0.1:50643
+1518157479245	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XnU3ykL24g5v
+1518157479246	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157479248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34861
+1518157480118	Marionette	INFO	Enabled via --marionette
+1518157483458	Marionette	INFO	Listening on port 34861
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16336, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16336, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157495611	geckodriver	INFO	Listening on 127.0.0.1:46405
+1518157496728	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OnJjiHSrNyP4
+1518157496729	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157496730	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41689
+1518157497647	Marionette	INFO	Enabled via --marionette
+1518157501151	Marionette	INFO	Listening on port 41689
+[Child 16533, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16533, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518157511503	geckodriver	INFO	Listening on 127.0.0.1:58381
+1518157512621	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5UoAk53yrNxx
+1518157512622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518157512624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42985
+1518157513709	Marionette	INFO	Enabled via --marionette
+1518157517350	Marionette	INFO	Listening on port 42985
+[Child 16698, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16698, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158030985	geckodriver	INFO	Listening on 127.0.0.1:39001
+1518158032102	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1iHzfqzsSMS4
+1518158032103	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158032105	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46725
+1518158032985	Marionette	INFO	Enabled via --marionette
+1518158036559	Marionette	INFO	Listening on port 46725
+[Child 16997, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16997, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158047076	geckodriver	INFO	Listening on 127.0.0.1:55107
+1518158048195	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dtEtzGTKZyBl
+1518158048196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158048198	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44643
+1518158049047	Marionette	INFO	Enabled via --marionette
+1518158052519	Marionette	INFO	Listening on port 44643
+[Child 17161, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17161, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17161, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158064220	geckodriver	INFO	Listening on 127.0.0.1:53151
+1518158065337	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Tf5R4C2EDtDT
+1518158065338	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158065340	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41267
+1518158067791	Marionette	INFO	Enabled via --marionette
+1518158072896	Marionette	INFO	Listening on port 41267
+[Child 17338, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17338, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17338, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17376, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158081495	geckodriver	INFO	Listening on 127.0.0.1:47777
+1518158082610	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jYoFDhDmH9vM
+1518158082611	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158082613	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39411
+1518158083706	Marionette	INFO	Enabled via --marionette
+1518158088239	Marionette	INFO	Listening on port 39411
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17569, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17530, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17530, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158096588	geckodriver	INFO	Listening on 127.0.0.1:53465
+1518158097742	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MSWxldFy4VnV
+1518158097743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158097745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35119
+1518158099294	Marionette	INFO	Enabled via --marionette
+1518158103871	Marionette	INFO	Listening on port 35119
+[Child 17708, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17708, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158112923	geckodriver	INFO	Listening on 127.0.0.1:43841
+1518158114098	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zdbziIhDcJg6
+1518158114100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158114103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34351
+1518158115344	Marionette	INFO	Enabled via --marionette
+1518158118853	Marionette	INFO	Listening on port 34351
+[Child 17874, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17874, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158130036	geckodriver	INFO	Listening on 127.0.0.1:36939
+1518158131177	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.twMJpjZ8aSPc
+1518158131180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158131182	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43077
+1518158132934	Marionette	INFO	Enabled via --marionette
+1518158139179	Marionette	INFO	Listening on port 43077
+[Child 18035, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18035, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158151916	geckodriver	INFO	Listening on 127.0.0.1:49063
+1518158153032	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zymNFs7EYhVu
+1518158153033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158153035	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38173
+1518158153984	Marionette	INFO	Enabled via --marionette
+1518158157076	Marionette	INFO	Listening on port 38173
+[Child 18201, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18201, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158165634	geckodriver	INFO	Listening on 127.0.0.1:55465
+1518158166750	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sdvEdYhVSmPx
+1518158166751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158166753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38371
+1518158167644	Marionette	INFO	Enabled via --marionette
+1518158171418	Marionette	INFO	Listening on port 38371
+[Child 18362, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18362, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158180582	geckodriver	INFO	Listening on 127.0.0.1:55075
+1518158181700	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xjibPKlqDNHb
+1518158181701	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158181703	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37743
+1518158182725	Marionette	INFO	Enabled via --marionette
+1518158186629	Marionette	INFO	Listening on port 37743
+[Child 18520, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18520, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158194350	geckodriver	INFO	Listening on 127.0.0.1:50351
+1518158195467	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nmLzA0j8bzoh
+1518158195468	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158195470	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42303
+1518158196422	Marionette	INFO	Enabled via --marionette
+1518158199793	Marionette	INFO	Listening on port 42303
+[Child 18677, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18677, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158207074	geckodriver	INFO	Listening on 127.0.0.1:48619
+1518158208196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Nkk3dLZTIWIb
+1518158208197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158208270	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35285
+1518158209492	Marionette	INFO	Enabled via --marionette
+1518158212899	Marionette	INFO	Listening on port 35285
+[Child 18842, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18842, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158223676	geckodriver	INFO	Listening on 127.0.0.1:36433
+1518158224832	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.afQdFmrgW5Aq
+1518158224833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158224835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39639
+1518158225773	Marionette	INFO	Enabled via --marionette
+1518158229520	Marionette	INFO	Listening on port 39639
+[Child 19002, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19002, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518158238617	geckodriver	INFO	Listening on 127.0.0.1:36425
+1518158239736	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xFF5au9VkyCI
+1518158239737	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518158239739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41539
+1518158240651	Marionette	INFO	Enabled via --marionette
+1518158244500	Marionette	INFO	Listening on port 41539
+[Child 19163, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19163, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19163, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159586579	geckodriver	INFO	Listening on 127.0.0.1:53717
+1518159587022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l6lr6QkNPit9
+1518159587023	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159587046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45885
+1518159599034	Marionette	INFO	Enabled via --marionette
+1518159610821	Marionette	INFO	Listening on port 45885
+[Child 20067, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20067, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159622170	geckodriver	INFO	Listening on 127.0.0.1:39937
+1518159623785	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Hha2ayUkM9tm
+1518159623786	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159623838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35279
+1518159628344	Marionette	INFO	Enabled via --marionette
+1518159632254	Marionette	INFO	Listening on port 35279
+[Child 20236, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20236, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159644320	geckodriver	INFO	Listening on 127.0.0.1:56615
+1518159645512	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.su69I4W3Lda8
+1518159645514	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159645517	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38315
+1518159646697	Marionette	INFO	Enabled via --marionette
+1518159650156	Marionette	INFO	Listening on port 38315
+[Child 20393, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20393, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159658314	geckodriver	INFO	Listening on 127.0.0.1:49331
+1518159659446	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5ySgAWgK6p91
+1518159659448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159659449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42063
+1518159661003	Marionette	INFO	Enabled via --marionette
+1518159666813	Marionette	INFO	Listening on port 42063
+[Child 20554, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20554, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159674973	geckodriver	INFO	Listening on 127.0.0.1:44173
+1518159676159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uVEKdHlvemI2
+1518159676161	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159676162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46117
+1518159677023	Marionette	INFO	Enabled via --marionette
+1518159680172	Marionette	INFO	Listening on port 46117
+[Child 20710, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20710, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159687966	geckodriver	INFO	Listening on 127.0.0.1:37231
+1518159689161	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Qw1yAeAQ17aP
+1518159689162	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159689164	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37405
+1518159690286	Marionette	INFO	Enabled via --marionette
+1518159693853	Marionette	INFO	Listening on port 37405
+[Child 20868, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20868, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159704371	geckodriver	INFO	Listening on 127.0.0.1:59487
+1518159705564	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3niLo10OrBpu
+1518159705566	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159705569	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36953
+1518159707391	Marionette	INFO	Enabled via --marionette
+1518159714576	Marionette	INFO	Listening on port 36953
+[Child 21030, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21030, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159723206	geckodriver	INFO	Listening on 127.0.0.1:38167
+1518159724321	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bEj5EHKUgaHt
+1518159724322	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159724324	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42033
+1518159725620	Marionette	INFO	Enabled via --marionette
+1518159729318	Marionette	INFO	Listening on port 42033
+[Child 21196, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21196, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159737522	geckodriver	INFO	Listening on 127.0.0.1:55213
+1518159738636	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u5xyggqmUZDs
+1518159738637	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159738639	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41361
+1518159739512	Marionette	INFO	Enabled via --marionette
+1518159743170	Marionette	INFO	Listening on port 41361
+[Child 21351, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21351, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159753275	geckodriver	INFO	Listening on 127.0.0.1:37051
+1518159754391	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BS7aeGm0roJt
+1518159754392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159754394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37873
+1518159755365	Marionette	INFO	Enabled via --marionette
+1518159758958	Marionette	INFO	Listening on port 37873
+[Child 21510, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21510, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159771047	geckodriver	INFO	Listening on 127.0.0.1:59773
+1518159772165	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.o3RX4qLNTmyR
+1518159772166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159772168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37183
+1518159773030	Marionette	INFO	Enabled via --marionette
+1518159776824	Marionette	INFO	Listening on port 37183
+[Child 21673, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21673, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159784605	geckodriver	INFO	Listening on 127.0.0.1:53075
+1518159785815	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jEdF6gded65V
+1518159785816	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159785833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42757
+1518159787809	Marionette	INFO	Enabled via --marionette
+1518159791107	Marionette	INFO	Listening on port 42757
+[Child 21834, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21834, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159798803	geckodriver	INFO	Listening on 127.0.0.1:47819
+1518159799917	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Xddjx4miT48s
+1518159799918	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159799920	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39859
+1518159800787	Marionette	INFO	Enabled via --marionette
+1518159804727	Marionette	INFO	Listening on port 39859
+[Child 21991, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21991, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159811429	geckodriver	INFO	Listening on 127.0.0.1:40159
+1518159812548	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RpZcB8MRyXwF
+1518159812549	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159812551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33141
+1518159813407	Marionette	INFO	Enabled via --marionette
+1518159816565	Marionette	INFO	Listening on port 33141
+[Child 22148, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22148, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518159996109	geckodriver	INFO	Listening on 127.0.0.1:53553
+1518159997237	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2kIb7ktYfAsu
+1518159997238	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518159997240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39675
+1518159998180	Marionette	INFO	Enabled via --marionette
+1518160001339	Marionette	INFO	Listening on port 39675
+[Child 22388, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22388, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160008928	geckodriver	INFO	Listening on 127.0.0.1:52029
+1518160010071	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q0m191LClndX
+1518160010073	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160010075	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37109
+1518160011389	Marionette	INFO	Enabled via --marionette
+1518160014683	Marionette	INFO	Listening on port 37109
+[Child 22547, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22547, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160022545	geckodriver	INFO	Listening on 127.0.0.1:59029
+1518160102155	geckodriver	INFO	Listening on 127.0.0.1:41325
+1518160103292	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.94LjYf9KGFjI
+1518160103293	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160103295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44657
+1518160104211	Marionette	INFO	Enabled via --marionette
+1518160107499	Marionette	INFO	Listening on port 44657
+[Child 22741, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22741, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160115940	geckodriver	INFO	Listening on 127.0.0.1:37323
+1518160117058	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GsdHuGTJTiLW
+1518160117059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160117061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44183
+1518160118014	Marionette	INFO	Enabled via --marionette
+1518160121180	Marionette	INFO	Listening on port 44183
+[Child 22900, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22900, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160129969	geckodriver	INFO	Listening on 127.0.0.1:38761
+1518160131139	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mdxTJY2mG5VC
+1518160131141	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160131145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33519
+1518160132102	Marionette	INFO	Enabled via --marionette
+1518160135198	Marionette	INFO	Listening on port 33519
+[Child 23065, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23065, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160143929	geckodriver	INFO	Listening on 127.0.0.1:49851
+1518160145049	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0D3Myjrx5FRT
+1518160145050	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160145052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38433
+1518160145948	Marionette	INFO	Enabled via --marionette
+1518160149119	Marionette	INFO	Listening on port 38433
+[Child 23227, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23227, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160157417	geckodriver	INFO	Listening on 127.0.0.1:41069
+1518160158530	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KktOY31x0a28
+1518160158531	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160158532	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40535
+1518160159513	Marionette	INFO	Enabled via --marionette
+1518160162914	Marionette	INFO	Listening on port 40535
+[Child 23389, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23389, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160171165	geckodriver	INFO	Listening on 127.0.0.1:52811
+1518160172281	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AncPcbzbmf5o
+1518160172282	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160172284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33513
+1518160173662	Marionette	INFO	Enabled via --marionette
+1518160178138	Marionette	INFO	Listening on port 33513
+[Child 23553, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23553, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23553, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160187776	geckodriver	INFO	Listening on 127.0.0.1:35041
+1518160188895	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BSCf1YFekjMh
+1518160188896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160188898	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43707
+1518160190392	Marionette	INFO	Enabled via --marionette
+1518160193747	Marionette	INFO	Listening on port 43707
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23756, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23756, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160203736	geckodriver	INFO	Listening on 127.0.0.1:35827
+1518160204854	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l8QJoEAO4fD6
+1518160204855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160204856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40903
+1518160205698	Marionette	INFO	Enabled via --marionette
+1518160209009	Marionette	INFO	Listening on port 40903
+[Child 23915, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23915, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23915, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160216960	geckodriver	INFO	Listening on 127.0.0.1:49437
+1518160218078	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uKV0upH2d0BJ
+1518160218079	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160218081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36151
+1518160219012	Marionette	INFO	Enabled via --marionette
+1518160222374	Marionette	INFO	Listening on port 36151
+[Child 24074, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24074, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160229676	geckodriver	INFO	Listening on 127.0.0.1:43897
+1518160230838	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mVSGRfhn61ur
+1518160230840	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160230842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36473
+1518160231696	Marionette	INFO	Enabled via --marionette
+1518160234929	Marionette	INFO	Listening on port 36473
+[Child 24232, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24232, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518160241933	geckodriver	INFO	Listening on 127.0.0.1:51495
+1518160243047	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jBwHHnEwOVaH
+1518160243048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160243050	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33607
+1518160243934	Marionette	INFO	Enabled via --marionette
+1518160247378	Marionette	INFO	Listening on port 33607
+[Child 24387, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24387, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160255010	geckodriver	INFO	Listening on 127.0.0.1:38315
+1518160256127	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mInsAQ8SFR4g
+1518160256128	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160256130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40139
+1518160257006	Marionette	INFO	Enabled via --marionette
+1518160260711	Marionette	INFO	Listening on port 40139
+[Child 24546, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24546, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160269750	geckodriver	INFO	Listening on 127.0.0.1:50659
+1518160270867	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wRDk7D0f5Sll
+1518160270868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160270869	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42211
+1518160272276	Marionette	INFO	Enabled via --marionette
+1518160275687	Marionette	INFO	Listening on port 42211
+[Child 24706, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24706, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160284709	geckodriver	INFO	Listening on 127.0.0.1:38277
+1518160285825	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XCjtXegapAQp
+1518160285826	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160285828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34007
+1518160286883	Marionette	INFO	Enabled via --marionette
+1518160290554	Marionette	INFO	Listening on port 34007
+[Child 24865, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24865, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160477137	geckodriver	INFO	Listening on 127.0.0.1:51957
+1518160478253	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0xp3ibu769r7
+1518160478254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160478256	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42565
+1518160479197	Marionette	INFO	Enabled via --marionette
+1518160482445	Marionette	INFO	Listening on port 42565
+[Child 25085, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25085, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25085, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160490621	geckodriver	INFO	Listening on 127.0.0.1:54123
+1518160491735	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QyFEvtrI100f
+1518160491736	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160491837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35657
+1518160493596	Marionette	INFO	Enabled via --marionette
+1518160497207	Marionette	INFO	Listening on port 35657
+[Child 25280, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25280, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25280, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160511917	geckodriver	INFO	Listening on 127.0.0.1:54915
+1518160513042	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IrJh1HPz17iL
+1518160513043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160513057	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42437
+1518160514138	Marionette	INFO	Enabled via --marionette
+1518160517409	Marionette	INFO	Listening on port 42437
+[Child 25444, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25444, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160525744	geckodriver	INFO	Listening on 127.0.0.1:56695
+1518160526866	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JQxTBWcTPOZm
+1518160526867	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160526869	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45773
+1518160527790	Marionette	INFO	Enabled via --marionette
+1518160531517	Marionette	INFO	Listening on port 45773
+[Child 25605, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25605, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25605, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160543098	geckodriver	INFO	Listening on 127.0.0.1:53841
+1518160544216	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tBIOCBKFlpNE
+1518160544217	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160544220	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38199
+1518160545278	Marionette	INFO	Enabled via --marionette
+1518160548913	Marionette	INFO	Listening on port 38199
+[Child 25769, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25769, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25769, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160558496	geckodriver	INFO	Listening on 127.0.0.1:41701
+1518160559611	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kyNzwmAPG4O3
+1518160559612	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160559614	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45233
+1518160560497	Marionette	INFO	Enabled via --marionette
+1518160564321	Marionette	INFO	Listening on port 45233
+[Child 25928, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25928, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25928, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160578460	geckodriver	INFO	Listening on 127.0.0.1:56225
+1518160579628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bSruP2KWgTPS
+1518160579629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160579638	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36703
+1518160580585	Marionette	INFO	Enabled via --marionette
+1518160583934	Marionette	INFO	Listening on port 36703
+[Child 26086, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26086, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26086, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160595564	geckodriver	INFO	Listening on 127.0.0.1:59863
+1518160596678	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sqtLVq5ZcSdi
+1518160596680	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160596681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34687
+1518160597612	Marionette	INFO	Enabled via --marionette
+1518160604571	Marionette	INFO	Listening on port 34687
+[Child 26251, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26251, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160638564	geckodriver	INFO	Listening on 127.0.0.1:47159
+1518160639878	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YRoPc0ggYZss
+1518160639879	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160640118	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37427
+1518160648042	Marionette	INFO	Enabled via --marionette
+1518160655779	Marionette	INFO	Listening on port 37427
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 556: TypeError: this.tablesData[table] is undefined
+[Child 26423, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26423, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160665801	geckodriver	INFO	Listening on 127.0.0.1:33143
+1518160666969	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mTatGr8k5wfq
+1518160666970	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160666987	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46575
+1518160672178	Marionette	INFO	Enabled via --marionette
+1518160678351	Marionette	INFO	Listening on port 46575
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26589, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26589, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26627, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1518160688794	geckodriver	INFO	Listening on 127.0.0.1:47439
+1518160689904	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DBGj5CInbNH2
+1518160689906	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160689907	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44411
+1518160690875	Marionette	INFO	Enabled via --marionette
+1518160696169	Marionette	INFO	Listening on port 44411
+[Child 26748, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26748, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518160709866	geckodriver	INFO	Listening on 127.0.0.1:43001
+1518160710982	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2k4qT978CzrW
+1518160710983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160710985	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33083
+1518160712263	Marionette	INFO	Enabled via --marionette
+1518160719665	Marionette	INFO	Listening on port 33083
+[Child 26932, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26932, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160729452	geckodriver	INFO	Listening on 127.0.0.1:41625
+1518160730573	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OUS0ksQbAGML
+1518160730574	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160730576	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39103
+1518160731449	Marionette	INFO	Enabled via --marionette
+1518160735008	Marionette	INFO	Listening on port 39103
+[Child 27113, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27113, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160744747	geckodriver	INFO	Listening on 127.0.0.1:34603
+1518160745921	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JSWbPz9nToM5
+1518160745923	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160745932	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42947
+1518160746877	Marionette	INFO	Enabled via --marionette
+1518160750731	Marionette	INFO	Listening on port 42947
+[Child 27273, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27273, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518160844360	geckodriver	INFO	Listening on 127.0.0.1:42625
+1518160845475	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.errUlh2dPJvf
+1518160845476	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518160845478	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35085
+1518160846407	Marionette	INFO	Enabled via --marionette
+1518160849702	Marionette	INFO	Listening on port 35085
+[Child 27507, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27507, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161045056	geckodriver	INFO	Listening on 127.0.0.1:41945
+1518161046194	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IxBzV16pN1TC
+1518161046196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161046199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38003
+1518161047059	Marionette	INFO	Enabled via --marionette
+1518161050262	Marionette	INFO	Listening on port 38003
+[Child 27727, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27727, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161103821	geckodriver	INFO	Listening on 127.0.0.1:35729
+1518161104936	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5PuASGwLhRqs
+1518161104937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161104939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43959
+1518161105787	Marionette	INFO	Enabled via --marionette
+1518161109099	Marionette	INFO	Listening on port 43959
+[Child 27946, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27946, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161265282	geckodriver	INFO	Listening on 127.0.0.1:58597
+1518161266396	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tgKkRS7rqVKC
+1518161266397	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161266399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45173
+1518161267268	Marionette	INFO	Enabled via --marionette
+1518161271110	Marionette	INFO	Listening on port 45173
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 556: TypeError: this.tablesData[table] is undefined
+[Child 28148, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28148, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161303269	geckodriver	INFO	Listening on 127.0.0.1:53849
+1518161304386	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YnTg19iNPUnv
+1518161304387	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161304389	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35085
+1518161305288	Marionette	INFO	Enabled via --marionette
+1518161308599	Marionette	INFO	Listening on port 35085
+[Child 28327, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28327, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161357837	geckodriver	INFO	Listening on 127.0.0.1:51665
+1518161358952	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cxgXVdez7s1l
+1518161358953	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161358954	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35177
+1518161360147	Marionette	INFO	Enabled via --marionette
+1518161363390	Marionette	INFO	Listening on port 35177
+[Child 28511, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28511, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161456158	geckodriver	INFO	Listening on 127.0.0.1:60389
+1518161457275	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s7RMcC7og0Tc
+1518161457276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161457278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45787
+1518161458142	Marionette	INFO	Enabled via --marionette
+1518161461285	Marionette	INFO	Listening on port 45787
+[Child 28741, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28741, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161468901	geckodriver	INFO	Listening on 127.0.0.1:50311
+1518161470012	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6m0cJlkVI8XJ
+1518161470013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161470015	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39367
+1518161470927	Marionette	INFO	Enabled via --marionette
+1518161474193	Marionette	INFO	Listening on port 39367
+[Child 28897, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28897, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161483597	geckodriver	INFO	Listening on 127.0.0.1:57705
+1518161484793	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JoGgFxwcVlYL
+1518161484796	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161484799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43439
+1518161601575	geckodriver	INFO	Listening on 127.0.0.1:50633
+1518161602691	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aQdtijwKGUts
+1518161602692	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161602694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46275
+1518161603639	Marionette	INFO	Enabled via --marionette
+1518161606925	Marionette	INFO	Listening on port 46275
+[Child 29129, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29129, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161616744	geckodriver	INFO	Listening on 127.0.0.1:37945
+1518161617861	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LcAMImmi1slc
+1518161617862	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161617864	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33493
+1518161618806	Marionette	INFO	Enabled via --marionette
+1518161622113	Marionette	INFO	Listening on port 33493
+[Child 29286, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29286, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161629170	geckodriver	INFO	Listening on 127.0.0.1:60001
+1518161792663	geckodriver	INFO	Listening on 127.0.0.1:48347
+1518161793779	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1WtvVNzAYbDA
+1518161793780	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161793782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38477
+1518161794644	Marionette	INFO	Enabled via --marionette
+1518161797930	Marionette	INFO	Listening on port 38477
+[Child 29589, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29589, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161805507	geckodriver	INFO	Listening on 127.0.0.1:57817
+1518161806628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zG3mXM0XZzxK
+1518161806629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161806630	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34563
+1518161807480	Marionette	INFO	Enabled via --marionette
+1518161810696	Marionette	INFO	Listening on port 34563
+[Child 29747, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29747, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161819061	geckodriver	INFO	Listening on 127.0.0.1:45735
+1518161820175	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vQCa53ZDSWbf
+1518161820176	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161820178	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44415
+1518161821013	Marionette	INFO	Enabled via --marionette
+1518161824157	Marionette	INFO	Listening on port 44415
+[Child 29905, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29905, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518161836739	geckodriver	INFO	Listening on 127.0.0.1:37819
+1518161837853	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ixpDI2fRaOXE
+1518161837854	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161837856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43181
+1518161838690	Marionette	INFO	Enabled via --marionette
+1518161841844	Marionette	INFO	Listening on port 43181
+[Child 30067, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30067, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161850906	geckodriver	INFO	Listening on 127.0.0.1:55339
+1518161852022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.urhAzKDBqdsv
+1518161852023	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161852025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44419
+1518161852871	Marionette	INFO	Enabled via --marionette
+1518161856113	Marionette	INFO	Listening on port 44419
+[Child 30223, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30223, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161862972	geckodriver	INFO	Listening on 127.0.0.1:46495
+1518161864088	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bbLA1L3VvF8U
+1518161864089	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161864091	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40071
+1518161865022	Marionette	INFO	Enabled via --marionette
+1518161868284	Marionette	INFO	Listening on port 40071
+[Child 30383, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30383, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161877016	geckodriver	INFO	Listening on 127.0.0.1:53655
+1518161878133	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Vi3UzjhWpGVi
+1518161878134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161878136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35183
+1518161878987	Marionette	INFO	Enabled via --marionette
+1518161882152	Marionette	INFO	Listening on port 35183
+[Child 30539, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30539, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161889438	geckodriver	INFO	Listening on 127.0.0.1:36959
+1518161890556	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ifMqXPSLLGcT
+1518161890557	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161890559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35269
+1518161891512	Marionette	INFO	Enabled via --marionette
+1518161894594	Marionette	INFO	Listening on port 35269
+[Child 30697, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30697, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161902740	geckodriver	INFO	Listening on 127.0.0.1:49135
+1518161903855	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Lijk2pjThalc
+1518161903856	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161903857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46669
+1518161904709	Marionette	INFO	Enabled via --marionette
+1518161907747	Marionette	INFO	Listening on port 46669
+[Child 30851, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30851, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161915806	geckodriver	INFO	Listening on 127.0.0.1:35135
+1518161916919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TDw5vvkYdRUX
+1518161916920	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161916922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43679
+1518161917796	Marionette	INFO	Enabled via --marionette
+1518161920913	Marionette	INFO	Listening on port 43679
+[Child 31005, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31005, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161928697	geckodriver	INFO	Listening on 127.0.0.1:34491
+1518161929811	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LOAZzuDTZfCT
+1518161929812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161929814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35677
+1518161930716	Marionette	INFO	Enabled via --marionette
+1518161933914	Marionette	INFO	Listening on port 35677
+[Child 31160, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31160, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161944625	geckodriver	INFO	Listening on 127.0.0.1:41175
+1518161945736	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e6EpIQjORiqh
+1518161945737	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161945739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45065
+1518161946636	Marionette	INFO	Enabled via --marionette
+1518161950076	Marionette	INFO	Listening on port 45065
+[Child 31322, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31322, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161957621	geckodriver	INFO	Listening on 127.0.0.1:49091
+1518161958739	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OyOfCwXSGyLp
+1518161958740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161958741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38067
+1518161959652	Marionette	INFO	Enabled via --marionette
+1518161962917	Marionette	INFO	Listening on port 38067
+[Child 31483, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31483, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161971045	geckodriver	INFO	Listening on 127.0.0.1:33527
+1518161972159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kTQN2Iqfu5FO
+1518161972160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161972162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36569
+1518161973047	Marionette	INFO	Enabled via --marionette
+1518161976327	Marionette	INFO	Listening on port 36569
+[Child 31640, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31640, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161984704	geckodriver	INFO	Listening on 127.0.0.1:43937
+1518161985820	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xZslt8QIljjQ
+1518161985821	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161985823	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40737
+1518161986717	Marionette	INFO	Enabled via --marionette
+1518161990060	Marionette	INFO	Listening on port 40737
+[Child 31833, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31833, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518161997712	geckodriver	INFO	Listening on 127.0.0.1:45365
+1518161998826	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kbKglM2kxKub
+1518161998828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518161998829	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33829
+1518161999811	Marionette	INFO	Enabled via --marionette
+1518162002941	Marionette	INFO	Listening on port 33829
+[Child 31993, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 31993, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162011775	geckodriver	INFO	Listening on 127.0.0.1:46525
+1518162012892	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rHkAomRh0OAh
+1518162012893	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162012895	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33149
+1518162013896	Marionette	INFO	Enabled via --marionette
+1518162017512	Marionette	INFO	Listening on port 33149
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32156, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32156, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162026529	geckodriver	INFO	Listening on 127.0.0.1:60675
+1518162027644	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lgxjwmJuJvYy
+1518162027645	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162027648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40291
+1518162028558	Marionette	INFO	Enabled via --marionette
+1518162031759	Marionette	INFO	Listening on port 40291
+[Child 32313, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162041570	geckodriver	INFO	Listening on 127.0.0.1:43701
+1518162042691	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Zo7Dq5ZyJzji
+1518162042692	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162042694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34405
+1518162043580	Marionette	INFO	Enabled via --marionette
+1518162046915	Marionette	INFO	Listening on port 34405
+[Child 32475, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32475, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518162056288	geckodriver	INFO	Listening on 127.0.0.1:40107
+1518162057404	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jVIsZUzRygO5
+1518162057405	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162057407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33887
+1518162058272	Marionette	INFO	Enabled via --marionette
+1518162061427	Marionette	INFO	Listening on port 33887
+[Child 32636, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32636, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162073612	geckodriver	INFO	Listening on 127.0.0.1:42719
+1518162074730	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.K6YrwGSF2SJ5
+1518162074731	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162074733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41845
+1518162075590	Marionette	INFO	Enabled via --marionette
+1518162079028	Marionette	INFO	Listening on port 41845
+[Child 327, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 327, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162087437	geckodriver	INFO	Listening on 127.0.0.1:47281
+1518162088552	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vnUlAnPAtOUn
+1518162088553	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162088555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38665
+1518162089390	Marionette	INFO	Enabled via --marionette
+1518162092579	Marionette	INFO	Listening on port 38665
+[Child 488, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 488, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162101689	geckodriver	INFO	Listening on 127.0.0.1:41231
+1518162102803	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5MoNcdIRxJ59
+1518162102804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162102806	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35163
+1518162103713	Marionette	INFO	Enabled via --marionette
+1518162106837	Marionette	INFO	Listening on port 35163
+[Child 648, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 648, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162114060	geckodriver	INFO	Listening on 127.0.0.1:57431
+1518162115179	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.I9qHAEqxS9In
+1518162115180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162115182	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40187
+1518162116120	Marionette	INFO	Enabled via --marionette
+1518162119429	Marionette	INFO	Listening on port 40187
+[Child 823, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 823, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162127425	geckodriver	INFO	Listening on 127.0.0.1:45797
+1518162128540	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dM88qT0eJo3Z
+1518162128542	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162128543	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34181
+1518162129470	Marionette	INFO	Enabled via --marionette
+1518162133067	Marionette	INFO	Listening on port 34181
+[Child 1002, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1002, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162141289	geckodriver	INFO	Listening on 127.0.0.1:57557
+1518162142404	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EzWgVERFHP63
+1518162142405	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162142407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35281
+1518162143235	Marionette	INFO	Enabled via --marionette
+1518162146944	Marionette	INFO	Listening on port 35281
+[Child 1245, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1245, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162155067	geckodriver	INFO	Listening on 127.0.0.1:52471
+1518162156185	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rlgon4MkHq8K
+1518162156186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162156188	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36535
+1518162157052	Marionette	INFO	Enabled via --marionette
+1518162160640	Marionette	INFO	Listening on port 36535
+[Child 1543, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1543, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162170017	geckodriver	INFO	Listening on 127.0.0.1:56621
+1518162171135	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7IYyMMOPQMBA
+1518162171136	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162171138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33915
+1518162172004	Marionette	INFO	Enabled via --marionette
+1518162175143	Marionette	INFO	Listening on port 33915
+[Child 1803, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1803, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162183396	geckodriver	INFO	Listening on 127.0.0.1:41969
+1518162184512	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9IBE7wZ6Mf5q
+1518162184513	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162184515	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40437
+1518162185492	Marionette	INFO	Enabled via --marionette
+1518162188726	Marionette	INFO	Listening on port 40437
+[Child 2009, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162197117	geckodriver	INFO	Listening on 127.0.0.1:34881
+1518162198233	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l8FynosoUuWS
+1518162198234	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162198236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46019
+1518162199110	Marionette	INFO	Enabled via --marionette
+1518162202295	Marionette	INFO	Listening on port 46019
+[Child 2187, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2187, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162210498	geckodriver	INFO	Listening on 127.0.0.1:39385
+1518162211615	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hCtwZX100mjz
+1518162211616	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162211618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38305
+1518162212476	Marionette	INFO	Enabled via --marionette
+1518162215644	Marionette	INFO	Listening on port 38305
+[Child 2346, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2346, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162226845	geckodriver	INFO	Listening on 127.0.0.1:40141
+1518162227959	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q5RouQhLeFD2
+1518162227960	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162227962	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42299
+1518162228803	Marionette	INFO	Enabled via --marionette
+1518162231980	Marionette	INFO	Listening on port 42299
+[Child 2510, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2510, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162238898	geckodriver	INFO	Listening on 127.0.0.1:60139
+1518162240016	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dYFcJznQFSNI
+1518162240017	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162240020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34883
+1518162240919	Marionette	INFO	Enabled via --marionette
+1518162244315	Marionette	INFO	Listening on port 34883
+[Child 2671, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2671, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162250962	geckodriver	INFO	Listening on 127.0.0.1:53541
+1518162252079	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s4a5Q59tEM6y
+1518162252080	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162252082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45531
+1518162252930	Marionette	INFO	Enabled via --marionette
+1518162256379	Marionette	INFO	Listening on port 45531
+[Child 2826, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2826, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162267207	geckodriver	INFO	Listening on 127.0.0.1:46901
+1518162268321	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.K8C2gJ3YH32E
+1518162268322	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162268323	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39665
+1518162269189	Marionette	INFO	Enabled via --marionette
+1518162273104	Marionette	INFO	Listening on port 39665
+[Child 2985, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2985, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162285934	geckodriver	INFO	Listening on 127.0.0.1:44507
+1518162287047	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RRuWnKYgr3DQ
+1518162287048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162287050	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42433
+1518162287928	Marionette	INFO	Enabled via --marionette
+1518162291118	Marionette	INFO	Listening on port 42433
+[Child 3185, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3185, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162299852	geckodriver	INFO	Listening on 127.0.0.1:40803
+1518162300968	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xPYyW1CYUul7
+1518162300969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162300971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41413
+1518162301818	Marionette	INFO	Enabled via --marionette
+1518162305194	Marionette	INFO	Listening on port 41413
+[Child 3345, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3345, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162314458	geckodriver	INFO	Listening on 127.0.0.1:40627
+1518162315574	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zcAczxnBm3Xo
+1518162315575	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162315577	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45983
+1518162316447	Marionette	INFO	Enabled via --marionette
+1518162319692	Marionette	INFO	Listening on port 45983
+[Child 3500, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3500, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162328189	geckodriver	INFO	Listening on 127.0.0.1:33821
+1518162329306	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QBz4b3IMHQQY
+1518162329307	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162329309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44833
+1518162330151	Marionette	INFO	Enabled via --marionette
+1518162333304	Marionette	INFO	Listening on port 44833
+[Child 3661, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3661, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162344264	geckodriver	INFO	Listening on 127.0.0.1:59717
+1518162345379	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7R0LDSHuRfEn
+1518162345380	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162345382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38333
+1518162346271	Marionette	INFO	Enabled via --marionette
+1518162349355	Marionette	INFO	Listening on port 38333
+[Child 3819, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3819, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162357600	geckodriver	INFO	Listening on 127.0.0.1:35495
+1518162358717	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Jt2PMNKRHfXJ
+1518162358718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162358720	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45191
+1518162359578	Marionette	INFO	Enabled via --marionette
+1518162362735	Marionette	INFO	Listening on port 45191
+[Child 3979, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3979, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162373771	geckodriver	INFO	Listening on 127.0.0.1:48885
+1518162374885	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LvCgO3BtLe9X
+1518162374886	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162374888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33947
+1518162375740	Marionette	INFO	Enabled via --marionette
+1518162378847	Marionette	INFO	Listening on port 33947
+[Child 4141, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4141, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162389886	geckodriver	INFO	Listening on 127.0.0.1:40559
+1518162391005	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TN6BCa3R7o2a
+1518162391006	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162391008	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45199
+1518162391909	Marionette	INFO	Enabled via --marionette
+1518162395036	Marionette	INFO	Listening on port 45199
+[Child 4298, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4298, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162404058	geckodriver	INFO	Listening on 127.0.0.1:34885
+1518162405172	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.df6DaPyEdKNq
+1518162405174	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162405175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43165
+1518162406089	Marionette	INFO	Enabled via --marionette
+1518162409256	Marionette	INFO	Listening on port 43165
+1518162413303	geckodriver	INFO	Listening on 127.0.0.1:35589
+1518162414416	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cwqQCbBkDtE2
+1518162414417	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162414447	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40561
+1518162415360	Marionette	INFO	Enabled via --marionette
+1518162418556	Marionette	INFO	Listening on port 40561
+[Child 4613, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4613, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162425962	geckodriver	INFO	Listening on 127.0.0.1:45719
+1518162427078	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RWu85tUvuJXO
+1518162427079	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162427081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35937
+1518162427945	Marionette	INFO	Enabled via --marionette
+1518162431378	Marionette	INFO	Listening on port 35937
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162442761	geckodriver	INFO	Listening on 127.0.0.1:50727
+1518162443876	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kvyf1xVJNr3K
+1518162443877	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162443879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35619
+1518162444735	Marionette	INFO	Enabled via --marionette
+1518162448207	Marionette	INFO	Listening on port 35619
+[Child 4930, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4930, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162458563	geckodriver	INFO	Listening on 127.0.0.1:34011
+1518162459678	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TNBvof9GUebi
+1518162459679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162459681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43273
+1518162460531	Marionette	INFO	Enabled via --marionette
+1518162464251	Marionette	INFO	Listening on port 43273
+[Child 5092, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5092, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162473156	geckodriver	INFO	Listening on 127.0.0.1:46021
+1518162474273	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C8iRECYCoTB9
+1518162474274	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162474275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44765
+1518162475111	Marionette	INFO	Enabled via --marionette
+1518162478497	Marionette	INFO	Listening on port 44765
+[Child 5252, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5252, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162488098	geckodriver	INFO	Listening on 127.0.0.1:41051
+1518162489215	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u7quBxkSJf5K
+1518162489216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162489218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38447
+1518162490174	Marionette	INFO	Enabled via --marionette
+1518162494149	Marionette	INFO	Listening on port 38447
+[Child 5412, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5412, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162502128	geckodriver	INFO	Listening on 127.0.0.1:52689
+1518162503242	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KoAEfSHql6eU
+1518162503244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162503245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43781
+1518162504090	Marionette	INFO	Enabled via --marionette
+1518162507395	Marionette	INFO	Listening on port 43781
+[Child 5567, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5567, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162515256	geckodriver	INFO	Listening on 127.0.0.1:53715
+1518162516374	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gKn4MeUJ1lLo
+1518162516375	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162516377	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42971
+1518162517224	Marionette	INFO	Enabled via --marionette
+1518162520518	Marionette	INFO	Listening on port 42971
+[Child 5728, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5728, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162527634	geckodriver	INFO	Listening on 127.0.0.1:57033
+1518162528750	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.h9cTIRpgUSBE
+1518162528751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162528753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34593
+1518162529635	Marionette	INFO	Enabled via --marionette
+1518162532745	Marionette	INFO	Listening on port 34593
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5888, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5888, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162540623	geckodriver	INFO	Listening on 127.0.0.1:48411
+1518162541742	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RzBeIUFwK7gY
+1518162541743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162541745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45693
+1518162542639	Marionette	INFO	Enabled via --marionette
+1518162545849	Marionette	INFO	Listening on port 45693
+[Child 6046, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6046, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6046, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162555562	geckodriver	INFO	Listening on 127.0.0.1:50877
+1518162556678	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zKbd8CQjXuZj
+1518162556679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162556681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35657
+1518162557551	Marionette	INFO	Enabled via --marionette
+1518162561260	Marionette	INFO	Listening on port 35657
+[Child 6205, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6205, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162568381	geckodriver	INFO	Listening on 127.0.0.1:48727
+1518162569497	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yaJFuWiS5agN
+1518162569499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162569500	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43213
+1518162570391	Marionette	INFO	Enabled via --marionette
+1518162573719	Marionette	INFO	Listening on port 43213
+[Child 6365, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6365, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162583977	geckodriver	INFO	Listening on 127.0.0.1:33379
+1518162585093	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2pnsnorrkuiA
+1518162585094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162585096	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38401
+1518162585970	Marionette	INFO	Enabled via --marionette
+1518162589093	Marionette	INFO	Listening on port 38401
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6564, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6564, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162599430	geckodriver	INFO	Listening on 127.0.0.1:57575
+1518162600547	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W4BnJ8pLXmeJ
+1518162600549	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162600550	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39963
+1518162601392	Marionette	INFO	Enabled via --marionette
+1518162604592	Marionette	INFO	Listening on port 39963
+[Child 6724, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6724, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162611575	geckodriver	INFO	Listening on 127.0.0.1:43837
+1518162612687	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KxODMOlzFN0k
+1518162612689	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162612690	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43637
+1518162613779	Marionette	INFO	Enabled via --marionette
+1518162617112	Marionette	INFO	Listening on port 43637
+[Child 6881, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6881, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162628194	geckodriver	INFO	Listening on 127.0.0.1:41689
+1518162629310	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GprpkFkEuUiB
+1518162629311	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162629313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45351
+1518162630289	Marionette	INFO	Enabled via --marionette
+1518162633409	Marionette	INFO	Listening on port 45351
+[Child 7040, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7040, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162642945	geckodriver	INFO	Listening on 127.0.0.1:41935
+1518162644062	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kmjgtIL1Zoxb
+1518162644063	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162644065	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40977
+1518162644912	Marionette	INFO	Enabled via --marionette
+1518162648535	Marionette	INFO	Listening on port 40977
+[Child 7201, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7201, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162658620	geckodriver	INFO	Listening on 127.0.0.1:51183
+1518162659738	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SAixQR2Hj3ST
+1518162659739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162659741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35833
+1518162660579	Marionette	INFO	Enabled via --marionette
+1518162663805	Marionette	INFO	Listening on port 35833
+[Child 7360, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7360, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162673066	geckodriver	INFO	Listening on 127.0.0.1:59079
+1518162674183	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V8hH348l7ufz
+1518162674184	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162674187	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37773
+1518162675048	Marionette	INFO	Enabled via --marionette
+1518162678586	Marionette	INFO	Listening on port 37773
+[Child 7517, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7517, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162687624	geckodriver	INFO	Listening on 127.0.0.1:57611
+1518162688739	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gja0kk4xVW1S
+1518162688740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162688742	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41475
+1518162689606	Marionette	INFO	Enabled via --marionette
+1518162692802	Marionette	INFO	Listening on port 41475
+[Child 7679, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7679, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162701620	geckodriver	INFO	Listening on 127.0.0.1:58991
+1518162702740	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MbXi9xd2KWL9
+1518162702741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162702743	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40855
+1518162703681	Marionette	INFO	Enabled via --marionette
+1518162706893	Marionette	INFO	Listening on port 40855
+[Child 7851, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7851, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162715127	geckodriver	INFO	Listening on 127.0.0.1:43847
+1518162716245	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9k6GiWm57e3j
+1518162716246	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162716248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34015
+1518162717124	Marionette	INFO	Enabled via --marionette
+1518162720393	Marionette	INFO	Listening on port 34015
+[Child 8007, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8007, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162730185	geckodriver	INFO	Listening on 127.0.0.1:34911
+1518162731301	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0T6cYs0suTX4
+1518162731302	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162731304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38467
+1518162732172	Marionette	INFO	Enabled via --marionette
+1518162735360	Marionette	INFO	Listening on port 38467
+[Child 8165, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8165, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162743344	geckodriver	INFO	Listening on 127.0.0.1:35629
+1518162744459	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.q2lpzUxvxPtw
+1518162744460	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162744462	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40197
+1518162745293	Marionette	INFO	Enabled via --marionette
+1518162748394	Marionette	INFO	Listening on port 40197
+[Child 8326, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8326, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162760381	geckodriver	INFO	Listening on 127.0.0.1:33475
+1518162761498	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.i5NO7pvrqtgm
+1518162761499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162761501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45097
+1518162762361	Marionette	INFO	Enabled via --marionette
+1518162765683	Marionette	INFO	Listening on port 45097
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8489, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8489, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162772760	geckodriver	INFO	Listening on 127.0.0.1:57813
+1518162773876	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W58HC0WeAYzQ
+1518162773877	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162773879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43889
+1518162774775	Marionette	INFO	Enabled via --marionette
+1518162777879	Marionette	INFO	Listening on port 43889
+[Child 8681, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8681, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162785396	geckodriver	INFO	Listening on 127.0.0.1:41231
+1518162786514	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gV0YRJ3nZwfp
+1518162786515	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162786517	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43143
+1518162787392	Marionette	INFO	Enabled via --marionette
+1518162790470	Marionette	INFO	Listening on port 43143
+[Child 8840, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8840, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162798405	geckodriver	INFO	Listening on 127.0.0.1:46317
+1518162799521	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EncHtPVFABQz
+1518162799522	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162799523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45717
+1518162800410	Marionette	INFO	Enabled via --marionette
+1518162803550	Marionette	INFO	Listening on port 45717
+[Child 8998, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8998, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162810917	geckodriver	INFO	Listening on 127.0.0.1:46817
+1518162812035	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.koaaondSSBAZ
+1518162812036	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162812038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38905
+1518162812891	Marionette	INFO	Enabled via --marionette
+1518162816189	Marionette	INFO	Listening on port 38905
+[Child 9156, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9156, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162826031	geckodriver	INFO	Listening on 127.0.0.1:50603
+1518162827147	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ovhmQ98Riala
+1518162827148	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162827150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33629
+1518162828031	Marionette	INFO	Enabled via --marionette
+1518162831608	Marionette	INFO	Listening on port 33629
+[Child 9315, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9315, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162842320	geckodriver	INFO	Listening on 127.0.0.1:33929
+1518162843436	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hUT9MEvsXcaE
+1518162843437	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162843439	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38259
+1518162844297	Marionette	INFO	Enabled via --marionette
+1518162847672	Marionette	INFO	Listening on port 38259
+[Child 9474, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9474, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162859755	geckodriver	INFO	Listening on 127.0.0.1:53211
+1518162860869	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.n4gVW6Hd1hxe
+1518162860870	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162860872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39459
+1518162861766	Marionette	INFO	Enabled via --marionette
+1518162864891	Marionette	INFO	Listening on port 39459
+[Child 9634, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9634, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518162872723	geckodriver	INFO	Listening on 127.0.0.1:48965
+1518162873841	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nrBo3SVSmKoP
+1518162873842	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162873844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43079
+1518162874731	Marionette	INFO	Enabled via --marionette
+1518162877917	Marionette	INFO	Listening on port 43079
+[Child 9797, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9797, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9797, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162888657	geckodriver	INFO	Listening on 127.0.0.1:48329
+1518162889772	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LepCXmtgEJA7
+1518162889773	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162889775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36391
+1518162890635	Marionette	INFO	Enabled via --marionette
+1518162893810	Marionette	INFO	Listening on port 36391
+[Child 9995, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9995, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162902867	geckodriver	INFO	Listening on 127.0.0.1:53269
+1518162903983	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tbZmES2odqgV
+1518162903984	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162903986	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44085
+1518162904893	Marionette	INFO	Enabled via --marionette
+1518162908057	Marionette	INFO	Listening on port 44085
+[Child 10152, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10152, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162920211	geckodriver	INFO	Listening on 127.0.0.1:47407
+1518162921330	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sbcN9N30Xq7O
+1518162921331	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162921333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32929
+1518162922223	Marionette	INFO	Enabled via --marionette
+1518162925513	Marionette	INFO	Listening on port 32929
+[Child 10313, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10313, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162932764	geckodriver	INFO	Listening on 127.0.0.1:56795
+1518162933881	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ExJCVouaC3bg
+1518162933882	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162933884	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38859
+1518162934799	Marionette	INFO	Enabled via --marionette
+1518162937956	Marionette	INFO	Listening on port 38859
+[Child 10471, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10471, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162953508	geckodriver	INFO	Listening on 127.0.0.1:52121
+1518162954628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YrsRCZ5e32cj
+1518162954629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162954631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42741
+1518162955479	Marionette	INFO	Enabled via --marionette
+1518162958749	Marionette	INFO	Listening on port 42741
+[Child 10631, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10631, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162966616	geckodriver	INFO	Listening on 127.0.0.1:46373
+1518162967733	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mZQGfQ29VHnU
+1518162967734	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162967736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45307
+1518162968588	Marionette	INFO	Enabled via --marionette
+1518162971742	Marionette	INFO	Listening on port 45307
+[Child 10791, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10791, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162977984	geckodriver	INFO	Listening on 127.0.0.1:35811
+1518162979100	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.c0DXS1U3zsIE
+1518162979101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162979103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40853
+1518162980012	Marionette	INFO	Enabled via --marionette
+1518162983199	Marionette	INFO	Listening on port 40853
+[Child 10948, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10948, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518162992995	geckodriver	INFO	Listening on 127.0.0.1:53155
+1518162994114	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D6P5EJYZ7GB6
+1518162994115	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518162994153	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33775
+1518162995011	Marionette	INFO	Enabled via --marionette
+1518162998234	Marionette	INFO	Listening on port 33775
+[Child 11105, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11105, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163009758	geckodriver	INFO	Listening on 127.0.0.1:32771
+1518163010875	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cR0Y3daiaAKT
+1518163010876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163010878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39857
+1518163011723	Marionette	INFO	Enabled via --marionette
+1518163014822	Marionette	INFO	Listening on port 39857
+[Child 11264, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11264, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163027209	geckodriver	INFO	Listening on 127.0.0.1:39089
+1518163028323	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hDJi3Pl5xleW
+1518163028324	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163028326	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45199
+1518163029218	Marionette	INFO	Enabled via --marionette
+1518163032579	Marionette	INFO	Listening on port 45199
+[Child 11461, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11461, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163040355	geckodriver	INFO	Listening on 127.0.0.1:43743
+1518163041473	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.h3pKZxFpOn5X
+1518163041474	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163041476	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34275
+1518163042352	Marionette	INFO	Enabled via --marionette
+1518163045480	Marionette	INFO	Listening on port 34275
+[Child 11632, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11632, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163058376	geckodriver	INFO	Listening on 127.0.0.1:41397
+1518163059489	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QFIQlJHEYyiJ
+1518163059490	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163059492	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37167
+1518163060622	Marionette	INFO	Enabled via --marionette
+1518163063778	Marionette	INFO	Listening on port 37167
+[Child 11794, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11794, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163072817	geckodriver	INFO	Listening on 127.0.0.1:40515
+1518163073932	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FuHwkGPE0nQV
+1518163073933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163073935	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42963
+1518163074832	Marionette	INFO	Enabled via --marionette
+1518163077793	Marionette	INFO	Listening on port 42963
+[Child 11952, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11952, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163085440	geckodriver	INFO	Listening on 127.0.0.1:52027
+1518163086558	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yrSRtEblXumA
+1518163086559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163086561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35071
+1518163087443	Marionette	INFO	Enabled via --marionette
+1518163090657	Marionette	INFO	Listening on port 35071
+[Child 12108, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12108, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163098771	geckodriver	INFO	Listening on 127.0.0.1:56205
+1518163099885	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ikVWdfkwthxg
+1518163099886	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163099887	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44147
+1518163100807	Marionette	INFO	Enabled via --marionette
+1518163103971	Marionette	INFO	Listening on port 44147
+[Child 12267, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12267, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163115472	geckodriver	INFO	Listening on 127.0.0.1:58879
+1518163116590	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4bbkZ1HQrkuA
+1518163116591	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163116593	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40607
+1518163117435	Marionette	INFO	Enabled via --marionette
+1518163120559	Marionette	INFO	Listening on port 40607
+[Child 12424, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12424, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163128491	geckodriver	INFO	Listening on 127.0.0.1:48189
+1518163129607	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eKeFh40ANQdK
+1518163129608	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163129610	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33173
+1518163130469	Marionette	INFO	Enabled via --marionette
+1518163133668	Marionette	INFO	Listening on port 33173
+[Child 12583, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12583, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163143203	geckodriver	INFO	Listening on 127.0.0.1:40103
+1518163144321	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2uWw0QVX3Qnw
+1518163144322	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163144324	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41211
+1518163145333	Marionette	INFO	Enabled via --marionette
+1518163148601	Marionette	INFO	Listening on port 41211
+[Child 12743, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12743, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163157124	geckodriver	INFO	Listening on 127.0.0.1:36655
+1518163158243	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aprV9PrCTdVN
+1518163158244	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163158245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39757
+1518163159128	Marionette	INFO	Enabled via --marionette
+1518163162259	Marionette	INFO	Listening on port 39757
+[Child 12898, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12898, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163169553	geckodriver	INFO	Listening on 127.0.0.1:56903
+1518163170667	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WZd5bJZ4FDhl
+1518163170668	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163170669	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33903
+1518163171552	Marionette	INFO	Enabled via --marionette
+1518163174806	Marionette	INFO	Listening on port 33903
+[Child 13055, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13055, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163186077	geckodriver	INFO	Listening on 127.0.0.1:44887
+1518163187190	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.afdQkwE6O6yM
+1518163187191	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163187193	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38511
+1518163188110	Marionette	INFO	Enabled via --marionette
+1518163192036	Marionette	INFO	Listening on port 38511
+[Child 13252, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13252, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163200182	geckodriver	INFO	Listening on 127.0.0.1:57163
+1518163201298	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PWJ5XEwlhgzQ
+1518163201299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163201301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34757
+1518163202147	Marionette	INFO	Enabled via --marionette
+1518163205442	Marionette	INFO	Listening on port 34757
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 556: TypeError: this.tablesData[table] is undefined
+[Child 13410, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518163214916	geckodriver	INFO	Listening on 127.0.0.1:37833
+1518163216032	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5iw0U4uYNrT4
+1518163216033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1518163216035	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46277
+1518163216948	Marionette	INFO	Enabled via --marionette
+1518163220398	Marionette	INFO	Listening on port 46277
+[Child 13568, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13568, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
